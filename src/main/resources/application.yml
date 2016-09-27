@@ -1,0 +1,5 @@
+appName: raidentrance
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
